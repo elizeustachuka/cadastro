@@ -20,7 +20,7 @@ class App
          */
         define('APP_HOST'       , $_SERVER['HTTP_HOST'] . "/cadastro");
         define('PATH'           , realpath('./'));
-        define('TITLE'          , "Cadastro de Produto - CST PlayGround");
+        define('TITLE'          , "Cadastro de Produto");
         define('DB_HOST'        , "localhost");
         define('DB_USER'        , "root");
         define('DB_PASSWORD'    , "");
